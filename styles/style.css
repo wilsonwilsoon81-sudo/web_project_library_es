@@ -61,12 +61,15 @@
   line-height: 76px;
   max-width: 635px;
   font-weight: 500;
+  margin-top: 0;
 }
 
 .header__description {
   max-width: 515px;
-  line-height: 32px;
+  line-height: 30px;
   font-size: 20px;
+  margin-top: 32px;
+  margin-bottom: 0;
 }
 
 .header__image {
@@ -168,6 +171,7 @@
 }
 
 .card__footer {
+  margin: 0;
   margin-top: auto;
   font-size: 14px;
   line-height: 20px;
