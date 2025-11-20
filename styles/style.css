@@ -266,7 +266,8 @@ html {
 }
 
 .person_name_feynman {
-  top: 30px;
+  position: absolute;
+  top: -5%;
   right: 319px;
 }
 
