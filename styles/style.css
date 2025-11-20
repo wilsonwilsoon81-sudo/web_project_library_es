@@ -66,6 +66,7 @@ html {
   max-width: 635px;
   font-weight: 500;
   margin: 0;
+  margin-top: 62px;
 }
 
 .header__description {
@@ -268,7 +269,7 @@ html {
 .person_name_feynman {
   position: absolute;
   top: -5%;
-  right: 319px;
+  left: 319px;
 }
 
 .person_name_burbidge {
