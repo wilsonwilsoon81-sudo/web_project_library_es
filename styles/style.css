@@ -273,21 +273,25 @@ html {
 }
 
 .person_name_burbidge {
+  position: absolute;
   top: 96px;
   right: 125px;
 }
 
 .person_name_cannon {
+  position: absolute;
   bottom: 18px;
   right: 216px;
 }
 
 .person_name_mitchell {
+  position: absolute;
   bottom: 82px;
   left: 142px;
 }
 
 .person_name_tarter {
+  position: absolute;
   top: 79px;
   left: 159px;
 }
