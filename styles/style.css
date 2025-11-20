@@ -65,8 +65,7 @@ html {
   line-height: 76px;
   max-width: 635px;
   font-weight: 500;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin: 0;
 }
 
 .header__description {
@@ -267,7 +266,7 @@ html {
 }
 
 .person_name_feynman {
-  top: -30px;
+  top: 30px;
   right: 319px;
 }
 
